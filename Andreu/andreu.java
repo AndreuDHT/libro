@@ -1,6 +1,6 @@
 package Andreu;
 
-public class andreu {
+class andreu {
 
     public static void main(String args[]) {
 
